@@ -3,12 +3,19 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background-color:#caede9 ;
+  flex-direction: column;
 }
 .title {
-  position:absolute;
-  top: 4px;
-  left: 10px;
-  color: #e78080;
+  color: #76bdb5;
   margin: 10px;
   font-size: 50px;
 }
+.task-container {
+  width: 700px;
+  height: 500px;
+  background-color: #ffffff;
+  
+  
+}
+
